@@ -14,4 +14,4 @@ como funciona?
 
 1. Clona este repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/gcastrejon1416-cmyk/Challenge-Amigo-secreto.git
